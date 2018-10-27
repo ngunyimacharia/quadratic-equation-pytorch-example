@@ -54,7 +54,7 @@ optimizer = SGD(model.parameters(), lr=0.01)
 
 
 # define the number of epochs and the data set size
-nb_epochs = 2000
+nb_epochs = 200
 data_size = 1000
 
 #let's store our epochs and loss values in arrays
